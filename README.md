@@ -1,6 +1,7 @@
 # Traffic-Surveillance-System
 
-## A traffic surveillance system for obtaining the comprehensive vehicle information, including type, number of axles, 3D bounding box, speed, length, current driving lane, and traffic volume, is proposed [1].
+## A traffic surveillance system for obtaining comprehensive vehicle information, including type, number of axles, 3D bounding box, speed, length, current driving lane, and traffic volume, is proposed [1].
+
 
   The system is tested in three different videos. Video1 and Video2 are captured from the North and South towers of Anqing Yangtze River highway bridge in China and Video3 is from the standard dataset [2]. Some experimental results are shown in the File 'Videos'. 
 
@@ -17,6 +18,7 @@
 
 
 ## References
-[1] B. Zhang and J. Zhang, "A Traffic Surveillance System for Obtaining Comprehensive Information of the Passing Vehicles based on Mask R-CNN"
+[1] B. Zhang and J. Zhang, "A Traffic Surveillance System for Obtaining Comprehensive Information of the Passing Vehicles Based on Instance Segmentation" , IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, DOI:10.1109/TITS.2020.3001154. (https://ieeexplore.ieee.org/document/9138761)
 
-[2] J. Sochor, R. Juránek, J. Špaňhel, L. Maršík, A. Široký, A. Herout, and P. Zemčík, "Comprehensive data set for automatic single camera visual speed measurement," IEEE Trans. Intell. Transp. Syst., vol. 20, no. 5, pp. 1633–1643, May 2019.
+[2] J. Sochor et al., “Comprehensive data set for automatic single camera visual speed measurement,” IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, vol. 20, no. 5, pp. 1633–1643, May 2019.
+
